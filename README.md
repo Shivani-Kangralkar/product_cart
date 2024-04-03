@@ -1,6 +1,6 @@
 netlify Link to view project: https://tiny-salamander-09ffd6.netlify.app/
 
-Description: With the help of api , added producs on cart , when user click perticular product. Also can remove product from cart
+Description: With the help of api , added producs on cart , when user click particular product. Also can remove product from cart
 
 # React + Vite
 
